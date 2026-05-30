@@ -1,0 +1,15 @@
+services:
+  # --- Minecraft Server ---
+  minecraft:
+    image: itzg/minecraft-server:java21
+    container_name: mc-server
+    ports:
+      - "25565:25565"
+    environment:
+      EULA: "TRUE"
+      VERSION: "1.21.11"  # Version
+      TYPE: "PAPER" # server ที่ใช้run
+      MEMORY: "6G"  # ปรับเพิ่มได้ตามสเปกเครื่อง
+    volumes:
+      - ./mc-data:/data
+    restart: always

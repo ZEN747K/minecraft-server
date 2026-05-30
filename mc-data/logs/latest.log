@@ -1,0 +1,35 @@
+[16:06:20] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[16:06:21] [Server thread/INFO]: [Rcon: Stopping the server]
+[16:06:21] [Server thread/INFO]: Stopping server
+[16:06:21] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[16:06:21] [Server thread/INFO]: Saving players
+[16:06:21] [Server thread/INFO]: Saving worlds
+[16:06:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[10000years]'/minecraft:overworld
+[16:06:21] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world '10000years'
+[16:06:21] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world '10000years'
+[16:06:21] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world '10000years'
+[16:06:21] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world '10000years' in 0.01s
+[16:06:21] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world '10000years'
+[16:06:21] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world '10000years'
+[16:06:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[10000years_nether]'/minecraft:the_nether
+[16:06:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world '10000years_nether'
+[16:06:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world '10000years_nether'
+[16:06:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world '10000years_nether'
+[16:06:22] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world '10000years_nether' in 0.00s
+[16:06:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world '10000years_nether'
+[16:06:22] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world '10000years_nether'
+[16:06:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[10000years_the_end]'/minecraft:the_end
+[16:06:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world '10000years_the_end'
+[16:06:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world '10000years_the_end'
+[16:06:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world '10000years_the_end'
+[16:06:22] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world '10000years_the_end' in 0.00s
+[16:06:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world '10000years_the_end'
+[16:06:22] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world '10000years_the_end'
+[16:06:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (10000years): All chunks are saved
+[16:06:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:06:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:06:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:06:22] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[16:06:22] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[16:06:22] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[16:06:22] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
