@@ -9,7 +9,7 @@ services:
       EULA: "TRUE"
       VERSION: "1.21.11"  # Version
       TYPE: "PAPER" # server ที่ใช้run
-      MEMORY: "6G"  # ปรับเพิ่มได้ตามสเปกเครื่อง
+      MEMORY: "8G"  # ปรับเพิ่มได้ตามสเปกเครื่อง
     volumes:
       - ./mc-data:/data
     restart: always
